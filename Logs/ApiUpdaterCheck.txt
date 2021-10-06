@@ -1,0 +1,30 @@
+[api-updater (non-obsolete-error-filter)] 7/27/2021 3:34:35 PM : Starting /Users/jerry/Desktop/Computer Graphic/2020.3.14f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 145.91ms
+moved types parse time: 59ms
+candidates parse time : 1ms
+C# parse time         : 312ms
+candidates check time : 34ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 7/27/2021 4:23:03 PM : Starting /Users/jerry/Desktop/Computer Graphic/2020.3.14f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 177.348ms
+moved types parse time: 52ms
+candidates parse time : 1ms
+C# parse time         : 280ms
+candidates check time : 30ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 7/27/2021 11:47:03 PM : Starting /Users/jerry/Desktop/Computer Graphic/2020.3.14f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 138.051ms
+moved types parse time: 56ms
+candidates parse time : 1ms
+C# parse time         : 248ms
+candidates check time : 29ms
+console write time    : 0ms
+
